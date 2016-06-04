@@ -1,0 +1,10 @@
+{
+  "name": "crypto-js",
+  "main": "crypto-js.d.ts",
+  "ambient": false,
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "description": "A Typescript/Typings definition for crypto-js.",
+  "ambientDevDependencies": {},
+  "dependencies": {
+  }
+}
